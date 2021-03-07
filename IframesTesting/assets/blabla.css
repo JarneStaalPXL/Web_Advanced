@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+
+#imga {
+    width: auto;
+    height: 15em;
+    padding-bottom: 2em;
+}
+
+#imgb {
+    width: auto;
+    height: 15em;
+}

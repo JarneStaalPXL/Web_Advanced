@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#displayflex {
+    display: flex;
+}
+
+#alignmiddle {
+    margin: auto;
+    display: flex;
+}
+
