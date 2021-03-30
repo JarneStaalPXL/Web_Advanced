@@ -1,0 +1,20 @@
+form {
+    padding: 2em;
+}
+
+.navbar-brand {
+    padding-left: 1em;
+}
+
+nav {
+
+}
+
+form {
+
+}
+
+.contactcard {
+    display: flex;
+    justify-content: center;
+}
