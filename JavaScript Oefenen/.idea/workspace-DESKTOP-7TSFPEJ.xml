@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="563ea78c-5d25-4dfe-bf10-2fc52ae6224f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BootstrapAll/Bootstrap Oefening 1/Favoriet gerecht.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootstrapAll/Bootstrap/assets/jade2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BootstrapAll/Bootstrap/assets/lifecoachLogo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deel 1/Oefeningen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deel 1/Oefeningen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deel 2/Oefeningen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deel 2/Oefeningen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deel 4/oefenen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/obj.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/obj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random/random.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/Cursus Vue.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/.idea/LearningProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/inputsharing/src/components/SharingComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue Oefenen/LearningProjects/inputsharing/src/components/ShowingComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_advanced_vue_fresh/src/components/InputUser.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap Oefening 1/Favoriet gerecht.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/assets/jade2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/assets/lifecoachLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/JS - Deel 1 - Cursus.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/JS - Deel 1 - Oefeningen.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/JS - Deel 2 - Cursus.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/JS - Deel 2 - Oefeningen.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/components/Sharing.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/components/Showing.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue Oefenen/examen_vue_leren/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web_advanced_vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web_advanced_vue/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1u7QVlOCnsxDYUv5fgfXc1OhOow" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jarne\OneDrive - PXL\PXL HTML\Semester 2\Web_Advanced\JavaScript Oefenen\Deel 2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563ea78c-5d25-4dfe-bf10-2fc52ae6224f" name="Default Changelist" comment="" />
+      <created>1624014174156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624014174156</updated>
+      <workItem from="1624014175346" duration="5471000" />
+      <workItem from="1624026057387" duration="6035000" />
+      <workItem from="1624035065344" duration="1078000" />
+      <workItem from="1624039160415" duration="29000" />
+      <workItem from="1624262044202" duration="848000" />
+      <workItem from="1624265338678" duration="8850000" />
+      <workItem from="1624296849143" duration="1208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
